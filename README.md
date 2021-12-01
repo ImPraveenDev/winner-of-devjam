@@ -6,18 +6,24 @@
   *  NodeJS
   *  CSS
   *  ReactHooks -> `1)useState 2)useEffect 3)useContext 4)custom hooks`
+  *  JS
 ### * Not that importent 
   *  TaildWindCSS
   *  UI/UX
   *  Animations
   *  Express
   *  Firebase -> `Firestore, Auth, Functions`
-### *  Thing to implement
+### * Importent Thing to implement
   * Amazon -> `AWS SQS or Normal Queue`
   * QR-Code Scanner
   * Appointment Booking
   * Chat Bot
   * Backup Plan
+### * Thing to implement
+  * login/signup/logout
+  * cors
+  * UI
+
 
 ---
 #### BackUp plan
