@@ -7,7 +7,7 @@
   *  CSS
   *  ReactHooks -> `1)useState 2)useEffect 3)useContext 4)custom hooks`
   *  JS
-### * Not that importent 
+### * Not that important 
   *  TaildWindCSS
   *  UI/UX
   *  Animations
