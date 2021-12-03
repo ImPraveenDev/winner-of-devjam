@@ -17,7 +17,7 @@
   * Amazon -> `AWS SQS or Normal Queue` -> `Avinash & Rohan | Mohit`
   * QR-Code Scanner -> `Aviansh | Sumanth`
   * Appointment Booking -> `Rohan & Raveli | Sumanth`
-  * Chat Bot -> `Preaveen & Mohit | Sumanth`
+  * Chat Bot -> `Praveen & Mohit | Sumanth`
   * Backup Plan -> `Sumanth`
 ### * Thing to implement
   * login/signup/logout
